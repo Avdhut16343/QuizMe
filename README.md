@@ -19,4 +19,8 @@ namely:
 2. Android
 3. Google Firebase
 
+### logo:
+![quiz1](https://user-images.githubusercontent.com/61410663/138507586-696677d8-4c42-4bd6-9604-e2cff6b032db.png)
 
+### PPT:
+https://docs.google.com/presentation/d/1DsEM8soOg0pXKhvFx2S81tfkhxcmYr1zRFQD8UZJ22A/edit#slide=id.gd4678f818d_3_12
